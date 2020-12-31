@@ -11,7 +11,7 @@ function CreateResume() {
     const dispatch = useDispatch();
 
     const handleSubmit = (value) => {
-        console.log(value)
+      
         dispatch(addResume(value));
     }
 
