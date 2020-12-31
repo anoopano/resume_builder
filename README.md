@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In this project I used react-touter, react-redux, redux, redux-form, bootstrap etc.
 
 
-### 'npm insatll'
+### `npm insatll`
 
 Install all the dependencies
 
