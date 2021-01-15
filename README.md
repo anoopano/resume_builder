@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `The application is hosted at heroku`
+### `The application is hosted at netlify`
 [View app on heroku](https://resumebuilderapp.netlify.app/)
 
 ### `dependencies`
